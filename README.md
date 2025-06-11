@@ -59,14 +59,6 @@ Veja a animação atual aqui:
 
 ---
 
-## 🛠️ Como usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/FreitasLopes/snaketest.git
-   cd snaketest
-
-
 
 ## 🌐 Contato
 
