@@ -47,12 +47,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FreitasLopes&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLopes&layout=compact&theme=tokyonight"/>
 </div>
----
 
 ## 🐍 Contribuições em movimento
 
 <p align="center">
-  <img src="https://github.com/FreitasLopes/FreitasLopes/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/FreitasLopes/FreitasLopes/blob/output/github-contribution-grid-snake.svg" alt="snake-gif" />
 </p>
 
 
