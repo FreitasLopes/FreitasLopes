@@ -1,4 +1,6 @@
-<h1 align="center">Olá! 👋 Eu sou Eduarda Lopes</h1>
+<h1 align="center"> 
+  Olá! 👋 Eu sou Eduarda Freitas
+</h1>
 
 <p align="center">
   🧑‍💻 Estudante de Ciência da Computação • Apaixonada por dados. 
