@@ -47,12 +47,25 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FreitasLopes&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLopes&layout=compact&theme=tokyonight"/>
 </div>
+# 🐍 Teste da Cobrinha Animada
 
-## 🐍 Contribuições em movimento
+Este repositório é um **exemplo funcional** que gera uma animação da sua **grade de contribuições do GitHub** em formato de cobrinha, usando **Platane/snk** e publica como SVG no branch `output`.
+
+Veja a animação atual aqui:
 
 <p align="center">
-  <img src="https://github.com/FreitasLopes/FreitasLopes/blob/output/github-contribution-grid-snake.svg" alt="snake-gif" />
+  <img src="https://github.com/FreitasLopes/snaketest/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+---
+
+## 🛠️ Como usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/FreitasLopes/snaketest.git
+   cd snaketest
+
 
 
 ## 🌐 Contato
