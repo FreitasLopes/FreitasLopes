@@ -54,7 +54,7 @@ Este repositório é um **exemplo funcional** que gera uma animação da sua **g
 Veja a animação atual aqui:
 
 <p align="center">
-  <img src="https://github.com/FreitasLopes/snaketest/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/FreitasLopes/FreitasLopes/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
