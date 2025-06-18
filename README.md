@@ -35,9 +35,9 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 [**Dashboard interativo para o microempreendedor com Streamlit**](https://github.com/FreitasLopes/dashboard-vendas)  
-🔹 [**TaskFlow - Gerenciador de tarefas com Python**](https://github.com/FreitasLopes/taskflow)  
-🔹 [**Projeto Educacional EJA Embu**](https://github.com/FreitasLopes/projeto-eja-embu)
+🔹 [**Dashboard interativo para o microempreendedor com Streamlit**](https://github.com/FreitasLopes/StreamLit)  
+🔹 [**TaskFlow - Gerenciador de tarefas com Python**](https://github.com/FreitasLopes/TASKFLOW)  
+🔹 [**Projeto Educacional EJA Embu**](https://github.com/FreitasLopes/projeto-eja-embu-)
 
 ---
 
